@@ -11,7 +11,7 @@ try {
     die("Could not connect to the database $dbname :" . $pe->getMessage());
 }
 
-?>
+?> 
     
 <html lang="en">
     <head>
